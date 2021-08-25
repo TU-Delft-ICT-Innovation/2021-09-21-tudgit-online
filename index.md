@@ -170,6 +170,7 @@ Modify the block below if there are any special requirements.
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% endif %}
   They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  They should have a <a href="https://github.com/join/">GitHub account</a>.
 </p>
 
 {% comment %}
